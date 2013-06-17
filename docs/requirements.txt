@@ -1,0 +1,19 @@
+Rough requirements:
+
+We essentially need the ability of the site to have a
+login/registration feature – to collect the patient’s name & Date of
+birth, then allow them to input a VAS score up to 4 times a day and
+the PIQ-6 score once a month. This site would then securely track the
+data points and generate daily, weekly & monthly graphical plots of
+the pain scores. If we could then have the ability to export the data
+from time to time to our local databases – that would be great. The
+patient would also need the ability to input a certain intervention
+such as:
+ 
+* Cord block
+* Ilioinguinal block
+* Vasectomy reversal
+* Targeted robotic microsurgical denervation
+* Micro-cryoablation
+* Botox cord block
+* Botox ilioinguinal block
